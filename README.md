@@ -3,6 +3,7 @@
 
 <br>
 
+Checkout how the Real Time Chat App works - [view demo](https://www.youtube.com/watch?v=JWasK72rXsY)
 
 
 
@@ -17,17 +18,17 @@ The main focus of this chat application is to enable users chat with one another
 
 Index Page:
 
-![alt text](https://github.com/Atinx1/chatapplication/blob/main/chatapp-main/chatapp-main/static/img/screenshot_1.png)
+![alt text](https://github.com/ClintonCode20/chatapp/blob/main/static/img/screenshot_1.png)
 
 
 
 Detail Page:
 
-![alt text](https://github.com/Atinx1/chatapplication/blob/main/chatapp-main/chatapp-main/static/img/screenshot_3.png)
+![alt text](https://github.com/ClintonCode20/chatapp/blob/main/static/img/screenshot_3.png)
 
 
 
 
 Detail Page:
 
-![alt text](https://github.com/Atinx1/chatapplication/blob/main/chatapp-main/chatapp-main/static/img/screenshot_2.png)
+![alt text](https://github.com/ClintonCode20/chatapp/blob/main/static/img/screenshot_2.png)
